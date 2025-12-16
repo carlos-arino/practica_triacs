@@ -19,3 +19,6 @@ binary = 'chips/motor-poten.chip.wasm'
 name = 'stepper-encoder'
 binary = 'chips/stepper-encoder.chip.wasm'
 
+[[chip]]
+name = 'triac-ac-converter'
+binary = 'chips/triac-ac-converter.chip.wasm'
