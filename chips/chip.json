@@ -1,0 +1,15 @@
+{
+  "name": "triac-ac-converter",
+  "author": "Carlos Vicente Ariño Latorre",
+  "pins": [
+    "Gate",
+    "",
+    "",
+    "Sign"
+  ],
+  "controls": [],
+  "display": {
+    "width": 100,
+    "height": 100
+  }
+}
